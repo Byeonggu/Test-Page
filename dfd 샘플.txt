@@ -1,4 +1,4 @@
-키워드 검색
+키워드 검색test 추가
 
 User 	-> {Keyword} -> 고캠핑API -> {contentId, firstImageUrl, facltNm, addr1} ->검색내용 리스트 -> 클릭 -> 
 	{contentId} -> 고캠핑API-> {캠핑장 종류 :   gnrlSiteCo, autoSiteCo, glampSiteCo, caravSiteCo
